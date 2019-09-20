@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Important Notes
 
-Removed below file for directive functionality
+Removed below files for directive functionality
 
 // "node_modules/jquery/dist/jquery.min.js",
 // "node_modules/bootstrap/dist/js/bootstrap.min.js"
